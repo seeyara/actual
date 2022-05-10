@@ -9,7 +9,7 @@ Example:
 let actual = require('@actual-app/api');
 
 await actual.init({
-  config: {
+  config: {.  
     dataDir: join(__dirname, 'user-files')
   }
 });
